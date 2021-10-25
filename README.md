@@ -1,4 +1,4 @@
-# Shopping Cart Pre-assessment
+# Shopping Cart Mock-assessment
 
 This is a pre-assesment activity. It's meant to be a async activity that you will receive feedback on before your final intro assessment.
 
